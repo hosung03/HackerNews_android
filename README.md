@@ -5,12 +5,6 @@ This project's purpose is for implementing an Android client application using H
 
 ## Features
 ●	View five lists of Hacker News
-    ○	Top
-    ○	New
-    ○	Best
-    ○	Show HN
-    ○	Ask HN
-    ○	Job
 ●	Detail View of a News
 ●	Bookmark a New detail
 ●	View a list of Bookmark
