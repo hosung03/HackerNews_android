@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_topstories"
+            android:title="Top Stories" />
+        <item
+            android:id="@+id/nav_newest"
+            android:title="Newest" />
+        <item
+            android:id="@+id/nav_best"
+            android:title="Best" />
+        <item
+            android:id="@+id/nav_showHN"
+            android:title="Show HN" />
+        <item
+            android:id="@+id/nav_askHN"
+            android:title="Ask HN" />
+        <item
+            android:id="@+id/nav_jobs"
+            android:title="Jobs" />
+    </group>
+
+    <item android:title="My Direcotry">
+        <menu>
+            <item
+                android:id="@+id/nav_bookmark"
+                android:title="Boookmark" />
+        </menu>
+    </item>
+
+</menu>
